@@ -1,0 +1,20 @@
+'use client'
+import React, { useState } from 'react'
+import { Dropdown, DropdownItem, DropdownMenu, DropdownToggle } from 'reactstrap'
+
+function page() {
+  // eslint-disable-next-line react-hooks/rules-of-hooks
+
+  return (
+    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, magnam eum quo fuga praesentium recusandae tempore qui. Delectus ipsam nam nostrum nobis harum, fuga, excepturi ducimus natus, inventore tenetur in et sequi. Commodi, temporibus et esse aperiam at perspiciatis molestiae eos tenetur, pariatur aspernatur vel quaerat. Laudantium et, enim est tempora temporibus corrupti animi commodi ipsam officiis culpa magni beatae vero porro neque placeat voluptas error. Ex quos, voluptas accusamus eum quidem labore molestiae libero natus ullam quia aut ab cumque delectus repudiandae eos placeat saepe iusto obcaecati itaque? Cupiditate delectus quisquam alias, debitis sunt temporibus eum consectetur dolorem beatae illo suscipit quas architecto iure, officiis quo consequuntur excepturi accusamus neque quis error esse officia dignissimos? Et quis, illo dolorum minus id deleniti similique facere repudiandae! Fugit, nam sed laudantium commodi assumenda eum porro, ullam incidunt delectus dicta magni blanditiis accusamus exercitationem itaque, totam ipsa voluptatum velit minima vero maiores minus similique quas et soluta. Reiciendis aliquid accusantium, doloribus totam in natus explicabo eveniet excepturi pariatur nesciunt ad quaerat quibusdam cum nisi harum temporibus, modi id, voluptatibus sit? Aliquam non totam placeat accusantium at veniam, recusandae voluptate ut labore quibusdam eaque nisi officia ipsum, quaerat atque. Quam veniam dolor error tempora ipsam. Ratione, ipsa explicabo! Molestiae, ipsam voluptates sunt aspernatur provident natus incidunt iure cum dolore? Cum, suscipit quos omnis eligendi, doloribus officia quisquam inventore quam totam ducimus non nobis nihil atque labore iure, autem dicta soluta vel! Amet laboriosam dolores nemo, voluptas officiis inventore quam modi quae, consequuntur, id doloribus vitae? Laborum fugit similique fugiat ducimus praesentium at perferendis dolor, consectetur voluptas cumque! Quisquam a aliquid sed tempore qui. Culpa esse itaque ut eum, veritatis sed non tenetur atque rem quam! Omnis, deserunt odio sequi similique eos sunt voluptatum rerum facere nemo quis, ab quae esse consequatur magnam hic, corporis quasi. Possimus tempore cum velit earum fugiat. Ad repellendus ullam est libero dicta quo quos rerum sequi ut exercitationem, velit minima praesentium, facilis debitis. Ratione veniam sed expedita voluptatum voluptatem, facilis animi laudantium repudiandae, laboriosam porro vitae ad provident tenetur est ut quo blanditiis tempore praesentium aliquid. Soluta voluptate consequuntur quae eum. Ex eum animi ullam omnis accusantium ratione, pariatur vel assumenda. Vero totam commodi debitis doloribus architecto eveniet tenetur cupiditate, eius alias corrupti, temporibus ea voluptate rem. Quaerat animi impedit mollitia? Minus repellendus libero earum. Reiciendis, totam iure est dolorum rerum in autem saepe debitis, vel labore sunt! Labore magni sed iste laborum aut fuga quia consequatur, corrupti nostrum laboriosam! Tenetur blanditiis rerum vitae enim cupiditate voluptatibus pariatur, eaque et voluptatem, harum officia dignissimos dolore exercitationem corrupti iste tempora, dolorem architecto provident iure nemo! Quaerat suscipit repellendus expedita ex? Quae vero beatae cumque impedit, architecto rem aliquam ex excepturi quaerat illo omnis ad nostrum velit molestiae laborum mollitia quod. Tenetur nemo expedita consequuntur fuga earum dolorem illo commodi incidunt id, neque reiciendis reprehenderit ipsam ipsum laborum debitis dicta numquam perferendis, consectetur magni at officia, itaque ipsa repudiandae optio. Quibusdam accusamus debitis quaerat a pariatur facilis, repudiandae deleniti hic.
+        
+<div>
+
+
+</div>
+
+    </div>
+  )
+}
+
+export default page

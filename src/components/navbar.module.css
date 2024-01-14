@@ -1,0 +1,9 @@
+.img_app{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+}
+.extraText{
+    color: blue;
+    font-size: small;
+}

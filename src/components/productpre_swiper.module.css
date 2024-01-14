@@ -1,0 +1,75 @@
+.mySwiper2 {
+  height: 400px;
+  width: 500px;
+}
+
+.galleryProduct {
+  margin-top: 1rem;
+  height: 150px;
+  width: 500px;
+}
+
+@media only screen and (max-width: 576px) {
+  .mySwiper2 {
+    width: 300px;
+  }
+
+  .galleryProduct {
+    width: 300px;
+  }
+}
+
+@media only screen and (min-width:576px) and (max-width: 768px) {
+  .mySwiper2 {
+    width: 400px;
+  }
+
+  .galleryProduct {
+    width: 400px;
+  }
+}
+
+/* @media only screen and  (min-width:576px) and (max-width: 768px) {
+  .mySwiper2 {
+    width: 500px;
+  }
+} */
+@media only screen and (min-width:768px) and (max-width: 992px) {
+  .mySwiper2 {
+    width: 350px;
+  }
+
+  .galleryProduct {
+    width: 350px;
+  }
+}
+
+@media only screen and (min-width:992px) and (max-width: 1200px) {
+  .mySwiper2 {
+    width: 380px;
+  }
+
+  .galleryProduct {
+    width: 380px;
+  }
+}
+
+@media only screen and (min-width:1200px) and (max-width: 1400px) {
+  .mySwiper2 {
+    width: 395px;
+  }
+
+  .galleryProduct {
+    width: 395px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .mySwiper2 {
+    width: 500px;
+  }
+
+  .galleryProduct {
+    width: 300px;
+  }
+}
